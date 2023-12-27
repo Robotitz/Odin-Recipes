@@ -12,11 +12,12 @@ h1 {
     background-color: red;
 }
 
+.images {
+  height: auto; 
+  width: 310px;
+}
+
 .header {
     text-align: center;
 }
 
-.images {
-  height: auto; 
-  width: 310;
-}
