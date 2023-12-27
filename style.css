@@ -15,3 +15,8 @@ h1 {
 .header {
     text-align: center;
 }
+
+.images {
+  height: auto; 
+  width: 310;
+}
