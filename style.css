@@ -4,3 +4,14 @@ h1 {
     text-align: center;
 }
 
+.description.list{
+    background-color: lightblue;
+}
+
+.description {
+    background-color: red;
+}
+
+.header {
+    text-align: center;
+}
